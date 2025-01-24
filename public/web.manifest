@@ -1,8 +1,6 @@
 {
   "name": "Movie Master",
   "short_name": "Moviemaster",
-  "theme_color": "#8936FF",
-  "background_color": "#333333",
   "start_url": "/",
   "id": "MovieMaster",
   "display": "fullscreen",
