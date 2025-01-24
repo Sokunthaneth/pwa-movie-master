@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "app.vercel.pwa_movie_master.twa",
-        "sha256_cert_fingerprints": ["D2:5B:8D:43:42:09:89:99:7F:A6:0D:EA:11:1B:9B:45:40:7F:1A:7C:90:A9:AC:B7:C9:F5:23:50:46:69:30:AA"]
+        "sha256_cert_fingerprints": ["A4:F4:19:07:B3:AE:24:AC:2D:EE:82:F1:A3:31:FA:0B:17:01:06:31:03:24:17:0B:E0:0E:66:0A:93:53:E4:F3"]
       }
     }]
