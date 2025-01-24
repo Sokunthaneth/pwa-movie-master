@@ -1,8 +1,12 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "app.vercel.pwa_movie_master.twa",
-        "sha256_cert_fingerprints": ["A4:F4:19:07:B3:AE:24:AC:2D:EE:82:F1:A3:31:FA:0B:17:01:06:31:03:24:17:0B:E0:0E:66:0A:93:53:E4:F3"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.vercel.pwa_movie_master.twa",
+      "sha256_cert_fingerprints": [
+        "29:B2:74:91:F6:DA:9E:D6:DB:C6:D8:78:9D:8D:92:84:AD:8F:70:55:09:19:A7:11:B9:7A:05:01:B9:80:0C:7F"
+      ]
+    }
+  }
+]
